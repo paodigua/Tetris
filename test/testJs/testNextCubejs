@@ -1,0 +1,7 @@
+
+try{
+  var ss=new NextCubes;
+  var type=ss[0][0].getType();
+}catch(e){
+   throw("create model 'NextCutes' failed");
+}
